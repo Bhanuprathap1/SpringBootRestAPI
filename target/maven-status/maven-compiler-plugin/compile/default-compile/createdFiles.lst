@@ -1,0 +1,14 @@
+com\org\fsd\proj\taskmgr\api\dao\ProjectDao.class
+com\org\fsd\proj\taskmgr\api\controller\ProjectTaskManagerController.class
+com\org\fsd\proj\taskmgr\api\service\ProjectService.class
+com\org\fsd\proj\taskmgr\api\SpringBootProjTaskmgrApplication.class
+com\org\fsd\proj\taskmgr\api\entity\ParentTask.class
+com\org\fsd\proj\taskmgr\api\dao\UsersDao.class
+com\org\fsd\proj\taskmgr\api\entity\Project.class
+com\org\fsd\proj\taskmgr\api\dao\TaskDao.class
+com\org\fsd\proj\taskmgr\api\service\UsersService.class
+com\org\fsd\proj\taskmgr\api\service\TaskService.class
+com\org\fsd\proj\taskmgr\api\dao\ParentTaskDao.class
+com\org\fsd\proj\taskmgr\api\service\ParentTaskService.class
+com\org\fsd\proj\taskmgr\api\entity\Users.class
+com\org\fsd\proj\taskmgr\api\entity\Task.class
